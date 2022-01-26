@@ -24,6 +24,7 @@ The following topics are to be handled for each of the above programming languag
 
     -Compiler/RE installation
     -Program execution
+    -Standard I/O
     -Variables and data types
     -Pointers and bitwise operations
     -Standard methods for data handling
