@@ -1,7 +1,3 @@
-from ast import If
-
-
-
 
 # Trinary
 """
