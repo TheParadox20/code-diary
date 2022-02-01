@@ -30,7 +30,7 @@ The following topics are to be handled for each of the above programming languag
     -Standard methods for data handling
     -Keywords, Identifiers and operators
     -Comments
-    -Control Flow
+    -Control Flow (COnditional & loops)
     -Data structures
     -Functions
     -OOP

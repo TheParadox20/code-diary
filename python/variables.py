@@ -3,3 +3,5 @@
 name = "paradox"
 age = 19
 x=10.98
+
+# Type casting
