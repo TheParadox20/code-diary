@@ -10,3 +10,5 @@ print(name)
 
 #using f-strings
 print(f"or your favourite maeal {name}")
+
+# reading command line arguments
