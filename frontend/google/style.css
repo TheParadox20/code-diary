@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    vertical-align: middle;
+    margin: 0% 5px;
+}
+header{
+    text-align: right;
+}
+header ul li svg{
+    max-width: 2.5%;
+    max-height: 2.5%;
+}
+header ul li img{
+    max-width: 3%;
+    max-height: 3%;
+    border-radius: 100%;
+    margin-right: 2%;
+}
+
+/* end of header */
+
+h1{
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+#blue{
+    color: #4185F4;
+}
+#red{
+    color: #EB4232;
+}
+#orange{
+    color: #F9BC03;
+}
+#green{
+    color: #34AA50;
+}
+form{
+    border: 1px solid #E8E8E8;
+    border-radius: 70px;
+    max-width: 60%;
+    margin: auto;
+    padding: 1% 1%;
+}
+form svg{
+    max-width: 3%;
+    max-height: 3%;
+}
+input{
+    border: transparent;
+    min-width: 90%;
+    min-height: 100%;
+}
+/* below form */
+.belowForm{
+    text-align: center;
+    margin-top: 3%;
+}
+.belowForm ul li{
+    background-color: #F3F3F3;
+    margin: 4%;
+    padding: 1%;
+}
+.belowForm p{
+    text-align: center;
+    margin-top: 3%;
+}
+
+/* footer section */
+
+footer{
+    background-color: #F3F3F3;
+    margin-top: 9%;
+}
+#country{
+    padding: 1% 2%;
+}
+#bottomFooter{
+    padding-bottom: 2%;
+}
+#bottomFooter ul,#bottomFooter>p{
+    display: inline;
+}
+#bottomFooter p{
+    text-align: center;
+    margin: 1% 4%;
+}
+#left{
+    text-align: left;
+}
+#right{
+    text-align: right;
+}
+#bottomFooter ul li{
+    margin: 1%;
+}
