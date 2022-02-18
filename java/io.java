@@ -21,8 +21,9 @@ public class io {
     public static void main(String[] args) {
         System.out.print("paradox");// no new line
         int age;
-        Scanner Age = new Scanner(System.in);
-        age = Age.nextInt();
+        try (Scanner Age = new Scanner(System.in)) {
+            age = Age.nextInt();
+        }
         System.out.println(" "+age);
         System.out.println("the end");
     }
