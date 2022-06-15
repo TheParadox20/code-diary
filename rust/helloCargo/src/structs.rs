@@ -1,7 +1,7 @@
-pub fn structure(){
-    let person: Person = Person::new(name:"Paradox",age:45);
+/* pub fn structure(){
+    //let person: Person = Person::new(name:"Paradox",age:45);
 
-    let statement: () = person.printInfo();
+    //let statement: () = person.printInfo();
 }
 
 struct Person{
@@ -11,10 +11,10 @@ struct Person{
 
 impl Person {
     fn new(name : &str, age: u32) -> Self{
-        Self(name: name.to_string(), age: age)
+        //Self(name: name.to_string(), age: age)
     }
 
     fn printInfo(&self){
         println!("{} {} ",self.name,self.age);
     }
-}
+} */
