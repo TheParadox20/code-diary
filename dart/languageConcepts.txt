@@ -1,0 +1,2 @@
+Everything you can place in a variable is an object, and every object is an instance of a class.
+Dart is strongly typed,
