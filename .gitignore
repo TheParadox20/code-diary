@@ -1,2 +1,8 @@
 .vscode
 target
+.dart_tool
+android
+windows
+build
+ios
+web
