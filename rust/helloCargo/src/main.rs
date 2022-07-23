@@ -6,6 +6,7 @@ mod tuples;
 mod loops;
 mod functions;
 mod structs;
+mod traits;
 
 fn main() {
     print::show();
@@ -17,16 +18,16 @@ fn main() {
     println!("============= FUNCTIONS =============");
     functions::function();
     println!("============= STRUCTS =============");
-    //structs::structure();
+    structs::structure();
 }
 
 //tryCatch
-fn adder(num: i32) -> i32{
+/* fn adder(num: i32) -> i32{
     if num<50{
         num+num
     }else{
         panic!("too large");
-        0;
+        0
     }
 }
 
@@ -43,4 +44,4 @@ mod tests{
         assert_ne!(5,5);
         let sum:i32 = adder(23);
     }
-}
+} */

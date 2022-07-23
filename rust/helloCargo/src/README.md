@@ -14,5 +14,9 @@ keeps track of the exact versions of dependencies in your project
 <br>
 `cargo run` => 
 <br>
+`cargo doc --open`
+`cargo update`
+<br>
+
 ### Building for Release
 `cargo build --release` => compirles the project with optimizations. Creates an executable in target/release folder

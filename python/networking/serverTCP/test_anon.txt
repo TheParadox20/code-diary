@@ -1,0 +1,1 @@
+number of distinct packets XXXXXXX as replies from the UDP server. Since UDP is connectionless protocol the overhead involved in UDP is less compared to a XXXXXXX connection based protocol like TCP. Example: UDP Server XXXXXXX using Python
