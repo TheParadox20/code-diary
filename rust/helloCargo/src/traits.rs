@@ -1,4 +1,4 @@
-pub run_trait(){}
+pub fn run_trait(){}
 
 trait Car {
     fn startEngine();
@@ -6,10 +6,4 @@ trait Car {
 
 struct Toyota {
     name: String
-}
-
-impl Car for Toyota {
-    fn new() -> Self{
-        Self { name:  "corrola".to_string() }
-    }
 }

@@ -7,6 +7,7 @@ mod loops;
 mod functions;
 mod structs;
 mod traits;
+mod ownership;
 
 fn main() {
     print::show();
@@ -17,6 +18,8 @@ fn main() {
     loops::loops();
     println!("============= FUNCTIONS =============");
     functions::function();
+    println!("============= OWNERSHIP =============");
+    ownership::ownership();
     println!("============= STRUCTS =============");
     structs::structure();
 }
