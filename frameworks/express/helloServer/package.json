@@ -1,0 +1,11 @@
+{
+  "name": "helloserver",
+  "version": "1.0.0",
+  "description": "first express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'fuck society'"
+  },
+  "author": "Paradox",
+  "license": "MIT"
+}
