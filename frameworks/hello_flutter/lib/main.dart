@@ -97,9 +97,27 @@ var row = runApp(
     ],
   )
 );
+
+/*  Column
+*
+*
+* */
+//var column = runApp();
+
+/*      STACK
+*
+*
+* */
+//var stack = runApp();
+
+/*      CONTAINER
+*
+*
+* */
+
 void main(){
   //minimalApp;
-  //text;
-  richText;
+  text;
+  //richText;
   //row;
 }
