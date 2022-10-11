@@ -1,6 +1,7 @@
 # code-diary
 This repo contains a personal coding progress report <br>
-For the sake of practice, I created this <a href="https://github.com/TheParadox20/competitive_programming">repo</a> a while back
+For practice <a href="https://github.com/TheParadox20/competitive_programming">visit this repo</a><br>
+For a more professional roadmap visit, <a href="https://roadmap.sh/">Roadmap.sh</a>
 
 ### Languages
 Target languages to be learnt/ in progress:
